@@ -9,8 +9,7 @@
 
 [unixhot](http://www.unixhot.com)
 
-![Oldboy](https://www.baidu.com/s?tn=baiduhome_pg&rsv_idx=2&wd=eclipse&rsv_cq=git+push&rsv_dl=0_right_recom_21121&euri=42571a2ebee841c5a399def2709bdc35)
-
+![Oldboy](http://img1.imgtn.bdimg.com/it/u=594559231,2167829292&fm=27&gp=0.jpg)
              while ture:
                do echo hehe;
              done
